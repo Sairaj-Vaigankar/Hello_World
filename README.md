@@ -4,3 +4,4 @@ New to this learning.
 # The second largest heading
 **this line is bold**
 *This line is italicized*
+~~This was mistaken text~~
