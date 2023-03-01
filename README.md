@@ -5,7 +5,7 @@ New to this learning.
 **this line is bold**\
 *This line is italicized*\
 ~~This was mistaken text~~
-> kamya utkarsha
+> kamya
 
 
-**sairaj**
+*sairaj*
